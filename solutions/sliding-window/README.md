@@ -6,11 +6,11 @@
 
 ## Types
 
-1. Fixed window (438.find-all-anagrams-in-a-string)
+1. Fixed window ([438] Find All Anagrams in a String)
 
-2. Dynamic window
+2. Dynamic window ([1838] Frequency of the Most Frequent Element)
 
-3. Dynamic window with auxiliary data structures
+3. Dynamic window with auxiliary data structures ([904] Fruit Into Baskets)
 
 ## General pattern
 
